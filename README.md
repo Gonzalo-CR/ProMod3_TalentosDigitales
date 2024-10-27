@@ -1,3 +1,32 @@
+# ProMod3_TalentosDigitales
+
+
+**Proyecto final grupal del Módulo 3 php Laravel de Talentos Digitales 2024**
+
+## Clonar repositorio para desarrolladores
+
+git clone https://github.com/Gonzalo-CR/ProMod3_TalentosDigitales 
+
+
+## Importante: Configuración de ramas
+
+Para crear tu rama de desarrollo:
+
+1. Asegurate de estar en la rama 'develop'
+
+git checkout develop
+
+2. Crea tu rama de desarrollo:
+
+git checkout -b developer_"TuNombre"
+
+
+
+
+**__**
+
+********************************
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
